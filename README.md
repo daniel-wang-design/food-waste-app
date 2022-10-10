@@ -18,3 +18,5 @@ We learned the basics of app building such as user input, screen resolutions, ho
 
 ## What's next for Cheap Eats
 A next step would be to have Cheap Eats  accept payments through the app to further smooth the transaction process of buying discounted food, both for the businesses, and for the customers. This in turn would help shed some positive light on the massive problem of food waste. 
+
+This project was used in a Hackathon. The orginal files created by myself and Cindy Li can be found <a href=https://github.com/cindyhjli/food-waste-app>here</a>
